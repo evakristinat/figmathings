@@ -1,4 +1,4 @@
-# figmathings
+# figma things
 check out my projects in Figma
 
 [Planter app vision](https://www.figma.com/file/eGykN8p16LsBUGNPVq3Mre/Planter-app)
