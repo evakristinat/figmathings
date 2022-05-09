@@ -9,4 +9,4 @@ check out my projects in Figma
 
 [News with prototyping](https://www.figma.com/file/u1vW1NSPMOYZagcXan504t/News%2Fmovement)
 
-[copies of things](https://www.figma.com/file/KATDdG0DkdRrpQN7Z3Cciy/copies)
+[Copies of popular elements](https://www.figma.com/file/KATDdG0DkdRrpQN7Z3Cciy/copies)
